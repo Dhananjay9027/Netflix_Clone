@@ -1,0 +1,112 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bg1
+{
+    background-image: url(images/bg.jpg);
+    height: 900px;
+    background-size: cover;
+}
+.bar
+{
+    height: 110px;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.logo
+{
+    background-image: url(images/logon.png);
+    background-size: cover;
+    height: 70px;
+    width: 202px;
+    margin-right: 700px;
+    margin-left: 20px;
+}
+.sign
+{
+    color: white;
+    margin-left: 35px;
+    height: 35px;
+    width: 80px;
+    background-color:rgb(229, 9, 20);
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 17px;
+    font-weight: 500;
+}
+.duniya
+{
+    color: bisque;
+    height: 30px;
+    width: 140px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main
+{
+    background-color: transparent;
+    height: 300px;
+    width: 1000px;
+    margin-left: 100px;
+    margin-top: 160px;
+}
+.ul
+{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+
+}
+.join
+{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin-top: 20px;
+}
+.email
+{
+    height: 60px;
+    width: 350px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    border: solid;
+    border-width: 1px;
+    border-color: white;
+    background-color: transparent;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.m2
+{
+    display: flex;
+    justify-content: center;
+}
+.get
+{
+    margin-top: 40px;
+    height: 60px;
+    width: 250px;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    background-color: rgb(229, 9, 20);
+    color: white;
+    font-weight: 600;
+    border-style: none;
+}
